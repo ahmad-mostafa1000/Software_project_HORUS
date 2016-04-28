@@ -1,0 +1,29 @@
+TASKS:
+/////////////////////////////////////////////////////general tasks/////////////////////////////////////////////////////////////////////
+1) write procedure in sql & check it works
+2) write c# code to execute the sql procedure
+3) validate input from user & estimte test cases
+4)upload your work in GITHUB as soon as possible
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+**BAHAA:
+1)add money in customer account
+2)customer view menu
+
+
+**MUSGI:
+1)register new customer
+2)customer view  pending orders 
+
+**MOSTAFA:
+1)chief control pending orders
+2)design manager , customer , cheif PAGE
+
+**MICKEY:
+1)LOGIN ->1)customer
+                   2)cheif
+                        3)manager
+
+
+**FARESS:
+1)manager can add meal 
