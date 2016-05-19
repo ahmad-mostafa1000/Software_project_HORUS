@@ -1,0 +1,9 @@
+5.1.1 Manager:  
+5.1.1.2 Has the ability to update the prices of the menu. (Medium Priority) (bahaa & musgi)
+5.1.1.4 Can delete an existing meal. (Medium Priority)  (mickey, ana , musgi)
+5.1.1.6 List all the users. (Medium Priority) (bahaa,faress)
+5.1.1.7 Delete a customer. (Medium Priority) (faress, musgi,mickey)
+  
+5.1.2 Customer: 
+5.1.2.3 Can place an order of more than one meal and sees the final price. (High Priority) (faress, ana,bahaa)
+5.1.2.4 The customer should know the estimated time the order will take to be ready. (Medium Priority)      (kolna)
